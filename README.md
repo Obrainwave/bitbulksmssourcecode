@@ -12,3 +12,6 @@ HIGHLIGHTS
 
 *You can transform the entire design of this website/application by simply editing the files:
 		(/application/views/templates/default/header.php, /application/views/templates/default/footer.php)
+		
+Is there any problem getting the code working? Call or whatsapp me through +2347039839326
+
